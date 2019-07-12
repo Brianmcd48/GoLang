@@ -1,2 +1,2 @@
 # GoLang
-Learning Go
+This Git will serve as my record of progress in Learning Go.
